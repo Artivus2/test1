@@ -2,7 +2,7 @@ import re
 string = input("введите число")
 
 if float(string) > 0:
-    print("положительное")
+    prit("положительное")
 elif float(string) < 0:
     print("отрицательное")
 else:
